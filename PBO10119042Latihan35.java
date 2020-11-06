@@ -6,8 +6,11 @@
 package latihanpbo;
 
 /**
- *
- * @author Stks
+ *  @author Muhammad Rifqu Abdillah
+ *  Nama : Muhammad Rifqu Abdillah
+ *  Kelas: Pbo-IF1
+ *  Nim : 10119042 
+ *  Deskripsi : Program ini berisi tentang tunjangan karyawan
  */
 public class PBO10119042Latihan35 {
     
